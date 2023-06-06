@@ -1,0 +1,31 @@
+﻿name,country,code,passengers,id
+Hartsfield Jackson Atlanta International,United States,ATL,95462867,1
+Beijing Capital International,China,PEK,81929359,2
+London Heathrow,United Kingdom,LHR,70037417,3
+Tokyo International,Japan,HND,66795178,4
+Chicago O’Hare International,United States,ORD,66633503,5
+Los Angeles International,United States,LAX,63688121,6
+Charles de Gaulle International,France,CDG,61611934,7
+Dallas Fort Worth International,United States,DFW,58591842,8
+Soekarno-Hatta International,Indonesia,CGK,57772762,9
+Dubai International,United Arab Emirates,DXB,57684550,10
+Frankfurt am Main International,Germany,FRA,57520001,11
+Hong Kong International Kai Tak,Hong Kong,HKG,56057751,12
+Denver International,United States,DEN,53156278,13
+Suvarnabhumi,Thailand,BKK,53002328,14
+Singapore Changi International,Singapore,SIN,51181804,15
+Amsterdam Schiphol,Netherlands,AMS,51035590,16
+John F Kennedy International,United States,JFK,49291765,17
+Guangzhou Baiyun International,China,CAN,48548430,18
+Madrid Barajas International,Spain,MAD,45176978,19
+Atatürk International,Turkey,IST,45124831,20
+Shanghai Pudong International,China,PVG,44880164,21
+San Francisco International,United States,SFO,44399885,22
+Charlotte Douglas International,United States,CLT,0,23
+McCarran International,United States,LAS,40799830,24
+Phoenix Sky Harbor International,United States,PHX,40421611,25
+George Bush Intercontinental Houston,United States,IAH,39891444,26
+Kuala Lumpur International,Malaysia,KUL,39887866,27
+Miami International,United States,MIA,39467444,28
+Incheon International,South Korea,ICN,39154375,29
+Munich International,Germany,MUC,38360604,30
