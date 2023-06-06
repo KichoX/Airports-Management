@@ -7,5 +7,10 @@ My steps of opening and runnign the application.
 
 2. Select the PlanesApplication.java file and run it ! It should work right away without any issue. 
 
+
+You should get something like this : 
+
+
+
 <img width="1440" alt="Screenshot 2023-06-07 at 00 27 45" src="https://github.com/KichoX/Airports-Management/assets/124770599/688e5596-9e1b-499a-a7f3-2c97ded81a43">
 
