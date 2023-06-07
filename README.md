@@ -7,7 +7,7 @@ My steps of opening and runnign the application.
 
 2. Select the PlanesApplication.java file and run it ! It should work right away without any issue. 
 
-3. Make sure in application.properties file you have your database linked with the same name and update username and password from your local database, make sure hibernate is auto with: spring.jpa.hibernate.ddl-auto=auto.
+3.	Make sure in application.properties file you have your database linked with the same name and update username and password from your local database, also set hibernate to auto with: spring.jpa.hibernate.ddl-auto=auto !
 
 You should get something like this : 
 
